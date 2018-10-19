@@ -110,3 +110,13 @@ $RECYCLE.BIN/
 .idea/misc.xml
 .idea/compiler.xml
 .idea/vcs.xml
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/surefire-reports/com.javafortesters.chap003.examples.MyFirstTest.txt
+target/surefire-reports/com.javafortesters.chap003.examples.TestNameClass.txt
+target/surefire-reports/TEST-com.javafortesters.chap003.examples.MyFirstTest.xml
+target/surefire-reports/TEST-com.javafortesters.chap003.examples.TestNameClass.xml
+target/test-classes/com/javafortesters/chap003/examples/MyFirstTest.class
+target/test-classes/com/javafortesters/chap003/examples/NameTestClass.class
+target/test-classes/com/javafortesters/chap004/examples/IntegerExamplesTest.class
